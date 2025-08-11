@@ -77,3 +77,30 @@ For file validation, tilize MIME Type Validation libraries, like `MimeDetective`
   };
   return JsonSerializer.Deserialize<T>(json, options) // Type-safe
   ```
+
+## 7. Validate and Normalize File Paths
+- **Rule:** To prevent file path manipulations, normalize and validate input file paths to prevent access to sensitive files.
+
+- **Unsafe:**
+  ```cs
+  string basePath = "/home/files/";
+  // Dangerous - filename can contain "../../etc/passwd"
+  string fullPath = Path.Combine(basePath, filename);
+  string content = System.IO.File.ReadAllText(fullPath);
+  ```
+- **Safe:**
+  ```cs
+  string basePath = "/home/files/";
+  // Absolute path is resolved and normalized
+  string fullPath = Path.GetFullPath(Path.Combine(basePath, filename));
+  // Ensure the resolved path starts with the base path
+  if (!fullPath.StartsWith(basePath, StringComparison.Ordinal))
+  {
+      return BadRequest("Invalid file path.");
+  }
+  if (!System.IO.File.Exists(fullPath))
+  {
+      return NotFound();
+  }
+  string content = System.IO.File.ReadAllText(fullPath);
+  ```
