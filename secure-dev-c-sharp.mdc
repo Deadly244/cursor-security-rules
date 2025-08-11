@@ -12,7 +12,7 @@ Generated code must not violate these rules. If a rule is violated, a comment mu
 
 ## 1. Validate All external inputs
 - **Rule:** Validate all external inputs by manually checking the type, format and size of the input manually or by using libraries like `FluentValidation`.
-For file validation, tilize MIME Type Validation libraries, like `MimeDetective` or `HeyRed.Mime` to check whether a file's type and content actually matches the expected type.
+For file validation, utilize MIME Type Validation libraries, like `MimeDetective` or `HeyRed.Mime` to check whether a file's type and content actually matches the expected type.
 
 ## 2. Use Parameterized Queries in EntityFramework
 - **Rule:** Parameterize queries in EntityFramework using LINQ and `FromSqlInterpolated`.
@@ -39,7 +39,7 @@ For file validation, tilize MIME Type Validation libraries, like `MimeDetective`
   ```
 
 ## 3. Avoid Singleton Dependency Injection On User-Specific Services
-- **Rule:** When registring services in ASP.NET Dependency Injection, choose the correct service lifetime to avoid exposing unauthorized users to other users' requests.
+- **Rule:** When registering services in ASP.NET Dependency Injection, choose the correct service lifetime to avoid exposing unauthorized users to other users' requests.
 
 - **Unsafe:**
   ```cs
@@ -58,7 +58,7 @@ For file validation, tilize MIME Type Validation libraries, like `MimeDetective`
 - **Rule:** Handling of mutable data in Singleton services should be avoided to prevent data inconsistencies. Ensure thread safety in Singletons to avoid race conditions that can cause logic bypass, for example by escalating privilages in authorization logic.
 
 ## 5. Ensure Solution's Project Paths Are Within the Expected Directory Structure
-- **Rule:** Check that referenced projects inside .sln files do not poimt to suspicious project files outsdie the expected directory structure.
+- **Rule:** Check that referenced projects inside .sln files do not point to suspicious project files outside the expected directory structure.
 
 ## 6. Use Secure Deserialization Methods
 - **Rule:** When deserializing data use type-safe methods to avoid malicious code injection.
@@ -75,7 +75,7 @@ For file validation, tilize MIME Type Validation libraries, like `MimeDetective`
   {
       PropertyNameCaseInsensitive = true
   };
-  return JsonSerializer.Deserialize<T>(json, options) // Type-safe
+  return JsonSerializer.Deserialize<T>(json, options); // Type-safe
   ```
 
 ## 7. Validate and Normalize File Paths
